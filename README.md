@@ -12,7 +12,7 @@ Un blog increible
 * Las personalidades multiples de Freddy
 * Creador por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
-
+* Disponible para todas las edades.
 
 Y como un amable recordatorio **Este readmine.md es un chiste** Diseñado para el ejmplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
 
