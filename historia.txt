@@ -2,6 +2,12 @@ Esta es la historia de github y gitbash
 
 Nos enfocaremos en fortalecer el conocimiento laboral
 
+<<<<<<< HEAD
+
+=======
+Experimento 1
+
 Master 1
 
 Master 2
+>>>>>>> 774ffa3 (Experimento 1)
